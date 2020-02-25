@@ -1,0 +1,22 @@
+html{
+	scroll-behavior: smooth;
+}
+#nav{
+	border: dodgerblue 2px solid;
+	background-color: rgb(240, 240, 240);
+}
+
+#portafolio{
+	border: #19bf00 2px solid;
+	background-color: rgb(240, 240, 240);
+}
+
+#services{
+	border: #bf0000 2px solid;
+	background-color: rgb(240, 240, 240);
+}
+		
+#contact{
+	border: #8000bf 2px solid;
+	background-color: rgb(240, 240, 240);
+}
